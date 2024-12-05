@@ -11,6 +11,7 @@ h1 {
   font-family: "pf-videotext", sans-serif;
   font-weight: 400;
   font-style: normal;
+  margin-top: 50px;
 }
 #response-text {
   font-family: "pf-videotext", sans-serif;
@@ -32,6 +33,7 @@ h1 {
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
+  margin-left: 20px;
 }
 
 .button-51:hover,
